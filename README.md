@@ -42,11 +42,13 @@ Reverse string (aBc -> cBa) Capitalize string (aBc -> ABC) Lowercase string (aBc
 
 Don’t use any built-in string utility – create your own. Remember, the exercise here is to use BDD, not to deliver a working utility without tests. If there are no tests in the solution, it won’t be accepted.
 
+**Code in repository**
+
 ### 2\.2 BOWLING GAME KATA
 
 Complete the Bowling Game Kata using BDD. The slides can be found here: <http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt>
 
-Answer: Look at the repo code.
+**Code in repository**
 
 ## Investigation of tools
 
