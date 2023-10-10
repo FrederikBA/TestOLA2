@@ -1,14 +1,14 @@
-OLA-2 TEST COURSE
+# OLA-2 TEST COURSE
 
-Reflections
+## Reflections
 
-Computer mouse:
+### Computer mouse:
 
 Identify the types of testing you would perform on a computer mouse, to make sure that it is of the highest quality.
 
 RightClickTest LeftClickTest ScrollUpTest ScrollDownTest MouseBtnThreeTest SensorTest ChangeSensitivityTest
 
-Catastrophic Failure:
+### Catastrophic Failure:
 
 Find a story where a software system defect had a bad outcome.
 
