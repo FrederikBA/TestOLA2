@@ -12,7 +12,7 @@ public class Game
             frames[currentFrameIndex] = new Frame();
         }
 
-        frames[currentFrameIndex].Roll = new Roll { Pins1 = pins1, Pins2 = pins2, Pins3 = pins3 };
+        frames[currentFrameIndex].Roll = new Roll { Pins1 = pins1, Pins2 = pins2, Pins3 = pins3 };  
 
         if (currentFrameIndex < 9 && (frames[currentFrameIndex].IsSpare || frames[currentFrameIndex].IsStrike))
         {
