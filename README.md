@@ -32,9 +32,9 @@ The American firm also had significant fears that the glitch could lead to a fal
 
 **Integration with AEB System:** Conduct thorough integration testing between the Full-Self Driving software and the Automatic Emergency Braking (AEB) system to ensure seamless communication and coordination.
 
-Two katas
+## Two katas
 
-STRING UTILITY
+### STRING UTILITY
 
 Use BDD to create a string utility with the following methods:
 
@@ -42,15 +42,15 @@ Reverse string (aBc -> cBa) Capitalize string (aBc -> ABC) Lowercase string (aBc
 
 Don’t use any built-in string utility – create your own. Remember, the exercise here is to use BDD, not to deliver a working utility without tests. If there are no tests in the solution, it won’t be accepted.
 
-2\.2 BOWLING GAME KATA
+### 2\.2 BOWLING GAME KATA
 
 Complete the Bowling Game Kata using BDD. The slides can be found here: <http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt>
 
 Answer: Look at the repo code.
 
-Investigation of tools
+## Investigation of tools
 
-Junit 5
+### Junit 5
 
 1. **@Tag:**
 - @Tag allows you to categorize test methods or test classes with custom tags.
@@ -84,7 +84,7 @@ Junit 5
 - They allow you to conditionally skip a test based on a given condition.
 - Useful when a test should only be executed if a certain condition holds, otherwise it's assumed to pass or fail, depending on the condition.
 
-Mocking Frameworks
+### Mocking Frameworks
 
 In this section we will compare the two mocking frameworks for Mockito for Java and Moq for our preferred language, C#.
 
