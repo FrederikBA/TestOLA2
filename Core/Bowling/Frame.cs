@@ -9,7 +9,7 @@ public class Frame
 
     public int Score(Frame nextFrame1, Frame nextFrame2)
     {
-        int score = Roll.Pins1 + Roll.Pins2 + Roll.Pins3; // Update score calculation
+        int score = Roll.Pins1 + Roll.Pins2 + Roll.Pins3;
 
         if (IsSpare)
         {
