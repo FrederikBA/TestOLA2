@@ -4,8 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTest", "SpecFlowTest\SpecFlowTest.csproj", "{4151E347-E0A8-4734-B28A-013CC933871A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingTest", "BowlingTest\BowlingTest.csproj", "{7029A63F-1CC3-4F10-9BFE-9D798BB859A1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +18,5 @@ Global
 		{4151E347-E0A8-4734-B28A-013CC933871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4151E347-E0A8-4734-B28A-013CC933871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4151E347-E0A8-4734-B28A-013CC933871A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7029A63F-1CC3-4F10-9BFE-9D798BB859A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7029A63F-1CC3-4F10-9BFE-9D798BB859A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7029A63F-1CC3-4F10-9BFE-9D798BB859A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7029A63F-1CC3-4F10-9BFE-9D798BB859A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
